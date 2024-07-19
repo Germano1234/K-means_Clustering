@@ -26,10 +26,6 @@ The model successfully separates normal data from reconnaissance attacks, as ill
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - University of West Florida for their support and resources.
