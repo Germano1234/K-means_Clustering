@@ -7,6 +7,14 @@ This project, conducted in collaboration with the University of West Florida, ai
 
 The primary goal of this project is to develop a model that can accurately classify data points as either normal or indicative of reconnaissance attacks. The K-means clustering algorithm is used to group the data points based on their features, and the results are analyzed to identify patterns associated with different types of activities.
 
+## Prerequisites
+- Python 3.x
+- PySpark
+- NumPy
+- Matplotlib
+- Pandas
+- Scikit-learn
+
 ## Features
 
 - **Data Preprocessing:** Scaling of features for better clustering performance.
